@@ -1,6 +1,6 @@
 # K6 lab
 
-Performance testing exercises using k6 and Grafana's QuickPizza demo. Install k6 (for example, `brew install k6` on macOS), then run a script with `k6 run <script>`. Measured results are in `RESULTS.md`; HTML reports are in `reports/`.
+Performance testing exercises using k6 and Grafana's QuickPizza demo. The recorded runs used k6 v2.2.0. Install k6 (for example, `brew install k6` on macOS), then run a script with `k6 run <script>`. Measured results are in `RESULTS.md`; HTML reports are in `reports/`.
 
 To regenerate an HTML report, for example:
 
